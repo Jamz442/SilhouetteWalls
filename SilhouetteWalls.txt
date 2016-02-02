@@ -1,0 +1,87 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author" : "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Blurred%20Background%20(15).jpg",
+			"name": "Blurred"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Galaxy_S4_Wallpaper-wallpaper-10278165.jpg",
+			"name": "Sparkle"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Off_White-wallpaper-10242660.jpg",
+			"name" : "Yellow"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Radioactive.png",
+			"name": "Radioactive"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Simple%20(354).png",
+			"name": "Lantern"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Simple%20(416).png",
+			"name": "Polygon"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Simple%20(449).png",
+			"name": "Mountain"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Simple%20(450).png",
+			"name": "Colored"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Simple%20(582).png",
+			"name": "Battery"
+		},
+		
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Simple%20(680).png",
+			"name": "Paint"
+		},
+		
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/Simple%20(911).png",
+			"name": "Unplug"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/download_20140521_232836.jpeg",
+			"name": "Lighting"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/ios_linen_texture_wallpaper_by_vegardhw-d3dc7r1.png",
+			"name": "Grey Hatch"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/wall111111.png",
+			"name": "Light Grey"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/wall1111211.png",
+			"name": "Almost White"
+		},
+		{
+			"author": "Prodigy Arts",
+			"url": "https://raw.githubusercontent.com/Jamz442/SilhouetteWalls/master/wallpaper_03.jpg",
+			"name": "Peak"
+		}
+	]
+}
